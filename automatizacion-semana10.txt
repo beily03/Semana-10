@@ -1,0 +1,20 @@
+1. ¿Qué evento activa el flujo?
+El flujo se activa cuando se registra una nueva petición o cuando cambia el estado de una solicitud en la plataforma.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviaría un mensaje de notificación no sensible, por ejemplo:
+
+"Nueva petición registrada. Ingrese a la plataforma para revisarla."
+
+
+"La petición #105 cambió de estado a 'pendiente de revisión'."
+
+3. ¿Qué información no debería enviarse por seguridad?
+No se deben enviar datos personales o sensibles, como:
+
+Nombres completos.
+Números de identificación.
+Direcciones o teléfonos.
+Correos electrónicos.
+Contraseñas o claves de acceso.
+Información confidencial sobre denuncias o documentos personales.
