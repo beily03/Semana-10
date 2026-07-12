@@ -1,0 +1,12 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+
+Implementar el formulario para registrar peticiones o denuncias ciudadanas.
+Crear el inicio de sesión (login) con roles de usuario (ciudadano, revisor y administrador).
+
+2. ¿Por qué son las más importantes?
+
+Estas tareas son prioritarias porque permiten que los ciudadanos puedan registrar sus solicitudes de forma organizada y que solo las personas autorizadas tengan acceso a la información según su rol. Esto garantiza un proceso seguro, ordenado y transparente desde el inicio del proyecto.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+
+Para mí, una tarea está terminada cuando cumple con los criterios establecidos, ha sido revisada, funciona correctamente y cuenta con evidencia que demuestra que fue realizada satisfactoriamente.
