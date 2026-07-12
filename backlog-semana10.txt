@@ -1,0 +1,5 @@
+Como ciudadano, quiero recibir notificaciones sobre el estado de mi petición para conocer los avances sin tener que consultar constantemente la plataforma.
+Como líder comunitario, quiero visualizar estadísticas de las problemáticas más frecuentes para priorizar acciones en beneficio de la comunidad.
+Como revisor, quiero agregar observaciones a las solicitudes para indicar qué información debe corregirse o complementarse.
+Como administrador, quiero asignar diferentes roles de usuario para controlar qué información y funciones puede utilizar cada persona.
+Como miembro de una veeduría ciudadana, quiero acceder a un historial de las acciones realizadas para garantizar la transparencia y facilitar la rendición de cuentas.
